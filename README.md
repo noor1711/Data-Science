@@ -1,2 +1,2 @@
-# Data-Science
-Projects I did in DATA SCIENCE
+# netflix_kaggle
+ EDA on the netflix dataset
