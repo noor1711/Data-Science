@@ -1,1 +1,2 @@
-Exploratory data analysis on the Netflix dataset available at kaggle
+# netflix_kaggle
+ EDA on the netflix dataset
